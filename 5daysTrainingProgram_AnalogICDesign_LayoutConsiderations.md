@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="dcsweeprd" src="https://github.com/user-attachments/assets/325c049a-a3b9-4107-b005-a50646827f2d" /># Five Days Hands-on Training Program 
+# Five Days Hands-on Training Program 
 
 ## Session 1
 
